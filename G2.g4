@@ -1,4 +1,3 @@
-# Gramática G2 — Asociatividad derecha, precedencia correcta (*/ > +-)
 grammar G2;
 
 prog : e EOF ;
