@@ -1,5 +1,3 @@
-# Gramática G4 — Asociatividad derecha, precedencia invertida (+- > */)
-
 grammar G4;
 
 prog : e EOF ;
