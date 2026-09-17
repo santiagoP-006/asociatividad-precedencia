@@ -1,4 +1,3 @@
-# Gramática G1 — Asociatividad izquierda, precedencia correcta (*/ > +-)
 grammar G1;
 
 prog : e EOF ;
