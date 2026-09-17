@@ -1,5 +1,3 @@
-# Gramática G3 — Asociatividad izquierda, precedencia invertida (+- > */)
-
 grammar G3;
 
 prog : e EOF ;
